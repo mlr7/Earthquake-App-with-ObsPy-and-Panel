@@ -20,6 +20,10 @@ The second earthquake, a magnitude 7.1, occurred the following day, on July 5, 2
 
 The Ridgecrest earthquake sequence included more than 100,000 aftershocks, a scary event all in all, but some great seismic data to study was definitely generated.
 
+A visualization of all earthquake activity in the Ridgecrest area from 2018 to early March 2023 is given below.
+
+![](img/ridgecrest_geospatial.png)
+
 ## ObsPy Python Library
 
 ObsPy is a Python library used for processing and analyzing seismological data. It provides a powerful and flexible framework for working with seismic data, from raw waveform data to high-level analysis.
