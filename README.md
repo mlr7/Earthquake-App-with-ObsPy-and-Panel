@@ -22,7 +22,7 @@ The Ridgecrest earthquake sequence included more than 100,000 aftershocks, a sca
 
 A visualization of all earthquake activity in the Ridgecrest area from 2018 to early March 2023 is given below.
 
-![width="10" height="10"](img/ridgecrest_geospatial.png)
+!["caption here"](img/ridgecrest_geospatial.png){:width="10px" height="10px"}
 
 ## ObsPy Python Library
 
