@@ -60,3 +60,14 @@ GeoPandas or Plotly: https://stackoverflow.com/questions/53233228/plot-latitude-
 GeoPandas plus Contextily: https://geopandas.org/en/stable/gallery/plotting_basemap_background.html   
 
 Contextily local: https://contextily.readthedocs.io/en/latest/working_with_local_files.html
+
+##### Time-Series-Classification and Change-Point Detection for Ridgecrest-2019 Earthquake Sequence
+
+![](img/ridgecrest_triplet1.png)
+
+![](img/ridgecrest_seq1.png)
+
+![](img/ridgecrest_seq2.png)
+
+![](img/ridgecrest_seq3.png)
+
