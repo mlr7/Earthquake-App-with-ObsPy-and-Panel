@@ -14,9 +14,9 @@ Notice the spike in large magnitude earthquakes around July 2019. That is the Ri
 
 The Ridgecrest earthquake sequence was a series of earthquakes that occurred in the Ridgecrest area of Southern California in July 2019. The sequence included two major earthquakes, along with a bunch of aftershocks.
 
-* The **first earthquake**, a **magnitude 6.4**, occurred on **July 4, 2019, at 10:33 a.m.** local time. The epicenter was located about 11 miles from the city of Ridgecrest, which has a population of around 29,000 people. The earthquake was felt across Southern California and parts of Nevada, and it caused significant damage in the Ridgecrest area.
+* The **first major earthquake**, a **magnitude 6.4**, occurred on **July 4, 2019, at 10:33 a.m.** local time. The epicenter was located about 11 miles from the city of Ridgecrest, which has a population of around 29,000 people. The earthquake was felt across Southern California and parts of Nevada, and it caused significant damage in the Ridgecrest area.
 
-- The second earthquake, a magnitude 7.1, occurred the following day, on July 5, 2019, at 8:19 p.m. local time. The epicenter was located about 9 miles from Ridgecrest. The earthquake was felt across a large portion of Southern California and parts of Nevada, and it caused even more damage than the first earthquake.
+* The **second significant earthquake**, a **magnitude 7.1**, occurred the following day, on **July 5, 2019, at 8:19 p.m.** local time. The epicenter was located about 9 miles from Ridgecrest. The earthquake was felt across a large portion of Southern California and parts of Nevada, and it caused even more damage than the first earthquake.
 
 The Ridgecrest earthquake sequence included more than 100,000 aftershocks, a scary event all in all, but some great seismic data to study was definitely generated.
 
